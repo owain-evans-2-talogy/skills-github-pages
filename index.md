@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-fish: the cat sat on the mat
+date: 2025-05-15
 ---
